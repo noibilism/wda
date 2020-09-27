@@ -1,0 +1,17 @@
+:root {
+  --base-font: "Poppins", sans-serif !important;
+}
+
+body {
+  font-family: var(--base-font);
+}
+
+.navbar {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.content {
+  margin-top: 40px;
+}
+

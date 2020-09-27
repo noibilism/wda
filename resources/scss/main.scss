@@ -1,0 +1,24 @@
+:root {
+    --base-font: 'Poppins', sans-serif !important;
+}
+
+body {
+    font-family: var(--base-font);
+}
+
+// navbar.
+.navbar {
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+
+// end navbar
+
+// inputs
+
+
+// .main content stylings
+.content {
+    margin-top: 40px;
+}
