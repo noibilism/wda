@@ -13,7 +13,13 @@ Step 4:
 Run npm install on your terminal
 
 Step 5:
-Run php artisan serve on your terminal
+run cp .env.example .env from your terminal and update .env file with your database credentials
 
 Step 6:
+Run php artisan migrate from your terminal
+
+Step 7:
+Run php artisan serve on your terminal
+
+Step 8:
 Go to your Browser and type: http:localhost:8000
